@@ -8,6 +8,7 @@ const SideBar = () => {
                 SachinAdmin
             </span>
         </div>
+        <hr />
         <div className="center">
             <ul>
                 <li>
