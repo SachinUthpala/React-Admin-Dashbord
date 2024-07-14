@@ -75,10 +75,16 @@ const SideBar = () => {
                     <LogoutIcon className='icons' />
                     <span>Log Out</span>
                 </li>
+                <p className="title">COLOUR OPTIONS</p>
             </ul>
         </div>
         <div className="bottom">
+            <div className="colorOption">
 
+            </div>
+            <div className="colorOption">
+                
+            </div>
         </div>
     </div>
   )
