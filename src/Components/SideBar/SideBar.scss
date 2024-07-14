@@ -21,4 +21,14 @@
         height: 0;
         border: 0.5px solid rgb(224, 223, 223);
     }
+
+    .center{
+        padding-left: 10px;
+
+        ul{
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+    }
 }
